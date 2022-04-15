@@ -1,0 +1,38 @@
+html {
+  font-size: 30px;
+  font-family: 'Courier Prime', monospace;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+html {
+  background-color: #F8E3E1;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #F8E3E1;
+  padding: 0 20px 20px 20px;
+  border: 1px solid #A30909;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #A30909;
+}
+
+div, iframe {
+    width: 640px;
+    height: 390px;
+    margin: 0 auto;
+}
+
+iframe {
+  display: block;
+  border-style: none;
+}
